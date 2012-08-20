@@ -1,0 +1,23 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+*.un~
+*.swp
+
+# generated files
+bin/
+gen/
+libs/armeabi-v7a/
+obj/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+.settings/
